@@ -1,3 +1,4 @@
+# Data exploration sample project
 ## Objective:
 Analyse wine data and make a binary classification for the type of wine : red or black
 
